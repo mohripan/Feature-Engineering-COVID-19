@@ -18,5 +18,5 @@ A coronavirus is a group of viruses that can cause disease in animals or humans.
 ## Confirmed Case
 ![alt text](https://github.com/mohripan/Feature-Engineering-COVID-19/blob/master/Image/6.PNG)
 
-## Big Table
+## Big Table's tail
 ![alt text](https://github.com/mohripan/Feature-Engineering-COVID-19/blob/master/Image/7a.PNG)
